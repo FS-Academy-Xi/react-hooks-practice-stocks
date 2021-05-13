@@ -1,11 +1,11 @@
-# Practice Challenge: Flatiron Stock Exchange
+# Practice Challenge: AXi Stock Exchange
 
 ![demo](https://raw.githubusercontent.com/learn-co-curriculum/react-hooks-practice-stocks/master/stocks.gif)
 
-Welcome to the Flatiron Stock Exchange!
+Welcome to the AXi Stock Exchange!
 
 Today, you are a broker who is trying to better organize the stocks available on
-the Flatiron Stock Market.
+the Academy Xi Stock Market.
 
 ## Setup
 
